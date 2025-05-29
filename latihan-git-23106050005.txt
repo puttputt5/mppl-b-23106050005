@@ -1,0 +1,24 @@
+Nama: Puput Meilany Putry
+NIM: 23106050005
+
+1. Kelebihan metode Agile dibanding metode pengembangan perangkat lunak lain:
+- Iterasi cepat dan fleksibel
+- Melibatkan klien selama proses
+- Adaptif terhadap perubahan kebutuhan
+- Fokus pada kebutuhan klien
+- Pengiriman produk lebih cepat
+
+2. Tugas Scrum Master dalam framework scrum:
+- Memfasilitasi sprint planning, daily standup, dan retrospektif
+- Menghilangkan hambatan tim
+- Menjaga nilai dan praktik scrum
+- Menjaga proses Scrum berjalan dengan baik
+
+3. Apa yang dimaksud dengan  WIP dalam Kanban:
+- Work In Progress (WIP) adalah jumlah pekerjaan yang sedang dikerjakan.
+- WIP limit digunakan untuk menjaga fokus dan efisiensi tim.
+
+4. Jenis Version Control System:
+- Git: sistem VCS terdistribusi yang populer
+- Subversion (SVN): sistem VCS terpusat yang menyimpan semua  versi file
+- CVS: sistem lama, kurang fleksibel dibanding Git yang digunakan untuk melacak perubahan dalam file
